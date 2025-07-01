@@ -9,7 +9,7 @@ not_above_2_ghz = []
 print('Starting looking through files.')
 
 for file in os.scandir(path_to_folder):
-    if file.is_file() and file.name.endswith('.pkl'):
+    if file.is_file() and file.name.endswith('.pkl') and file.name.startswith('Summer'):
         try:
             df = pd.read_pickle(file.path)
             if 'signal_frequency' in df.columns:
