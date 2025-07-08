@@ -1,0 +1,22 @@
+start_frequency,end_frequency,label
+2178.0,2195.0,Unknown
+2106.4,2106.4,High alt balloon (FT Sumner)
+2204.5,2204.5,Test telemetry (FT Bliss)
+2180.0,2290.0,Satellite downlink (GSO/MEO)
+2227.5,2231.5,Unknown (WSMR?)
+2246.5,2252.5,Unknown (WSMR?)
+2268.5,2274.5,Unknown (WSMR?)
+2282.5,2288.5,Unknown (WSMR?)
+2314.5,2320.5,Unknown (WSMR?)
+2320.0,2332.5,Sirius DARS (GSO-Tundra)
+2324.5,2330.5,Unknown (WSMR?)
+2332.5,2345.0,XM DARS (GSO-Equatorial)
+2334.5,2340.5,Unknown (WSMR?)
+2387.5,2387.5,High alt balloon (FT Sumner)
+2400.0,2483.5,Microwave Ovens
+2400.0,2483.5,WiFi (802.11b) Wireless
+2411.0,2413.0,Hughes Net WiFi
+2483.5,2500.0,GlobalStar downlink
+2741.0,2741.0,ABQ NEXRAD1
+2791.0,2791.0,ABQ NEXRAD1
+3700.0,4200.0,Satellite downlinks
