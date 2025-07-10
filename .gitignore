@@ -1,5 +1,4 @@
 data
-et_signals
-seticore_output
-output.txt
-outputs
+supervised_ml/et_signals/*
+supervised_ml/seticore_output/*
+supervised_ml/outputs/*
