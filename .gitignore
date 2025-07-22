@@ -2,3 +2,4 @@ data
 supervised_ml/et_signals/*
 supervised_ml/seticore_output/*
 supervised_ml/outputs/*
+stamp_data/*
