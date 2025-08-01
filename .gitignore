@@ -1,5 +1,5 @@
 data
-supervised_ml/et_signals/*
-supervised_ml/seticore_output/*
-supervised_ml/outputs/*
+data_generation/et_signals/*
+data_generation/seticore_output/*
+data_generation/outputs/*
 stamp_data/*
