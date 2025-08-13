@@ -3,3 +3,4 @@ data_generation/et_signals/*
 data_generation/seticore_output/*
 data_generation/outputs/*
 stamp_data/*
+clustering/patchcore_memory.pt
